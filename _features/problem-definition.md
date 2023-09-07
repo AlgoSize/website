@@ -1,5 +1,5 @@
 ---
-title: "Problem Definition and Requirements Analysis"
+title: "Problem Definition & Requirements Analysis"
 icon: "/assets/images/service-icon/3.png"
 ---
 
