@@ -1,5 +1,5 @@
 ---
-title: "Algorithm Design and Development"
+title: "Algorithm Design & Development"
 icon: "/assets/images/service-icon/1.png"
 ---
 
