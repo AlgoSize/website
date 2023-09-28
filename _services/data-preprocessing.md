@@ -1,5 +1,5 @@
 ---
-title: "Data Preprocessing and Feature Engineering Service"
+title: "Data Preprocessing & Feature Engineering"
 icon: '<i class="fas fa-laptop-code"></i>'
 layout: service
 ---
