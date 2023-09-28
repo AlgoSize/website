@@ -1,5 +1,5 @@
 ---
-title: "Algorithmic Audit and Consultation Service"
+title: "Algorithmic Audit & Consultation Service"
 icon: '<i class="fas fa-anchor"></i>'
 layout: service
 ---
