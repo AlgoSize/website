@@ -1,6 +1,6 @@
 teams_settings:  
   title: our team member
-  description: Meet Our Most Creative Minds That’s Are Professional
+  description: Meet Our Team of Innovative Minds Specializing in Algorithm Development
 
 blogs_settings:  
   title: News & blog
@@ -43,7 +43,7 @@ projects_settings:
 
 portfolios_settings:  
   title: About Us
-  description: Most Creative Agency For Your Project
+  description: Premier Algorithm Development Firm For Your Project
   button:
     name: "View more"
     link: "#"
@@ -79,29 +79,17 @@ abouts_settings:
   text: A
   text2: We specialize in developing custom algorithms tailored to unique business needs across various sectors. We deliver solutions in Machine Learning, Natural Language Processing, Cryptography, Data Analysis, and Blockchain, providing innovative and efficient approaches to solve distinct challenges in industries such as finance, healthcare, and e-commerce."
   list:
-    - item: Algorithm Development
-      link: "#"
-    - item: Machine Learning Models
-      link: "#"
-    - item: Natural Language Processing
-      link: "#"
-    - item: Cryptographic Algorithms
+    - item: Custom Algorithm Development
       link: "#"
     - item: Data Analysis and Mining
       link: "#"
     - item: Optimization Algorithms
       link: "#"
-    - item: Trading and Financial Algorithms
+    - item: Cryptography Algorithms
+      link: "#"
+    - item: Machine Learning Models
       link: "#"
     - item: Search and Recommendation Engines
-      link: "#"
-    - item: Blockchain Solutions
-      link: "#"
-    - item: Computer Vision
-      link: "#"
-    - item: Simulation and Modeling
-      link: "#"
-    - item: E-Commerce Algorithms
       link: "#"
   button:
     name: "Contact Us"
