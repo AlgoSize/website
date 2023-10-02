@@ -1,24 +1,24 @@
-title: "Livvic Premium Jekyll Theme"
-email: "tortoizthemes@gmail.com"
+title: "Crafting Algorithms that Shape the Future"
+email: "info@algosize.com"
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Discover AlgoSize: Offering tailored algorithm services to meet 
+  your unique business needs. Elevate your operations with our innovative, 
+  scalable solutions.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://livvic-jekyll.tortoizthemes.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://algosize.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 #General Settings
-facebook_url: "https://facebook.com/tortoizthemes"
-twitter_url: "https://twitter.com/tortoizthemes"
-behance_url: "https://behance.com/tortoizthemes"
-instagram_url: "https://instagram.com/tortoizthemes"
+facebook_url: "https://facebook.com/algosize"
+twitter_url: "https://twitter.com/algosize"
+instagram_url: "https://instagram.com/algosize"
+linkedin_url: "https://www.linkedin.com/company/algosize/"
 logo_url: "/assets/images/logo.png"
 
 
 copyright_text: "&copy; 2023 Algosize. All Rights Reserved"
-phone_number: "+012 (345) 77 999"
-address: "55 New Sodor Road, USA"
-office_time: "Sun - Friday : 10 am - 08 pm"
+phone_number: "+41 22 525 38 52"
+address: "Geneva, Switzerland"
+office_time: "Mon - Friday : 10 am - 6 pm"
 
 # Build settings
 theme: minima
