@@ -77,19 +77,31 @@ abouts_settings:
   image: "/assets/images/about-us/1.png"
   image2: "/assets/images/about-us/2.png"
   text: A
-  text2: We specialize in developing custom algorithms tailored to unique business needs across various sectors. We deliver solutions in Machine Learning, Natural Language Processing, Cryptography, Data Analysis, and Blockchain, providing innovative and efficient approaches to solve distinct challenges in industries such as finance, healthcare, and e-commerce."
+  text2: We specialize in developing custom algorithms tailored to unique business needs across various sectors.
   list:
-    - item: Custom Algorithm Development
+    - item: PageRank
       link: "#"
-    - item: Data Analysis and Mining
+    - item: Recommendation
       link: "#"
-    - item: Optimization Algorithms
+    - item: Trading
       link: "#"
-    - item: Cryptography Algorithms
+    - item: Diagnostics and Prediction
       link: "#"
-    - item: Machine Learning Models
+    - item: Pathfinding
       link: "#"
-    - item: Search and Recommendation Engines
+    - item: Encryption
+      link: "#"
+    - item: Linear Regression, Decision Trees, and Neural Networks
+      link: "#"
+    - item: Transformer Models
+      link: "#"
+    - item: Path Planning and Obstacle Avoidance
+      link: "#"
+    - item: Route Optimization
+      link: "#"
+    - item: Error Detection and Correction Lossless and Lossy Compression
+      link: "#"
+    - item: Lossless and Lossy Compression
       link: "#"
   button:
     name: "Contact Us"
