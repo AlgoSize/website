@@ -91,7 +91,7 @@ abouts_settings:
       link: "#"
     - item: Encryption
       link: "#"
-    - item: Linear Regression, Decision Trees, and Neural Networks
+    - item: LR, DT, and NN
       link: "#"
     - item: Transformer Models
       link: "#"
@@ -99,7 +99,7 @@ abouts_settings:
       link: "#"
     - item: Route Optimization
       link: "#"
-    - item: Error Detection and Correction Lossless and Lossy Compression
+    - item: Error Detection and Correction
       link: "#"
     - item: Lossless and Lossy Compression
       link: "#"
