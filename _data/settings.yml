@@ -79,29 +79,25 @@ abouts_settings:
   text: A
   text2: We specialize in developing custom algorithms tailored to unique business needs across various sectors.
   list:
-    - item: PageRank
+    - item: Custom Algorithm Design
       link: "#"
-    - item: Recommendation
+    - item: Algorithm Optimization
       link: "#"
-    - item: Trading
+    - item: Machine Learning Model Development
       link: "#"
-    - item: Diagnostics and Prediction
+    - item: Algorithmic Audit & Review
       link: "#"
-    - item: Pathfinding
+    - item: Industry-Specific Algorithm Solutions
       link: "#"
-    - item: Encryption
+    - item: Data Structures Implementation
       link: "#"
-    - item: LR, DT, and NN
+    - item: Algorithm Testing & Validation
       link: "#"
-    - item: Transformer Models
+    - item: Algorithmic Consultation
       link: "#"
-    - item: Path Planning and Obstacle Avoidance
+    - item: Performance Benchmarking
       link: "#"
-    - item: Route Optimization
-      link: "#"
-    - item: Error Detection and Correction
-      link: "#"
-    - item: Lossless and Lossy Compression
+    - item: Post-deployment Support & Maintenance
       link: "#"
   button:
     name: "Contact Us"
