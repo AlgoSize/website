@@ -11,8 +11,7 @@ blogs_settings:
 
 videos_settings:  
   title: Watch Our Latest Videos
-  description: Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the
-  youtube_link: "https://www.youtube.com/watch?v=iogabydg2y0"
+  description: Navigate Algosize, your cohesive platform for managing budget, algorithm development projects, and tasks. Keep everything aligned and transparent in one unified space. 
   button:
     name: "Learn More "
     link: "#"
