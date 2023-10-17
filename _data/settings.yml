@@ -30,16 +30,13 @@ projects_settings:
   counter:
     - icon: '<i class="fas fa-rocket"></i>'
       name: "Project completed"
-      count: 6320
+      count: 25
     - icon: '<i class="fas fa-life-ring"></i>'
       name: "Satisfied Clients"
-      count: 8563
-    - icon: '<i class="fas fa-trophy"></i>'
-      name: "Awards Won"
-      count: 963
+      count: 5
     - icon: '<i class="fas fa-universal-access"></i>'
       name: "Expert Team Member"
-      count: 4975
+      count: 28
 
 portfolios_settings:  
   title: About Us
