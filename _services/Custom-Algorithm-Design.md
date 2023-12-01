@@ -16,9 +16,6 @@ We offer the unique ability to customize algorithms to align with the specific n
 Our focus is on delivering data-driven results, emphasizing accuracy, predictability, and measurable outcomes.
 <br/>
 <br/>
-**Detailed Service Description:**
-<br/>
-<br/>
 1. **Scope of Services**: We offer a comprehensive range of algorithm design services, including data analysis, machine learning, and optimization algorithms, to cater to a wide array of needs.
 <br/>
 <br/>
