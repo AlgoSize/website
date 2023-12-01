@@ -1,4 +1,8 @@
-**Algorithm Optimization Services**
+---
+title: "Algorithm Optimization"
+icon: '<i class="fas fa-chart-line"></i>'
+layout: service
+---
 
 **Clear Value Proposition:**
 1. **Enhanced Performance**: Our optimization services focus on improving the performance of algorithms, ensuring they operate at peak efficiency.
