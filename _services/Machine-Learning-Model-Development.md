@@ -1,4 +1,9 @@
-**Machine Learning Model Development services**
+---
+title: "Machine Learning Model Development"
+icon: '<i class="fas fa-chart-line"></i>'
+layout: service
+---
+
 
 **Clear Value Proposition:**
 1. **Advanced Solutions**: We focus on developing cutting-edge machine learning models that solve complex problems in various domains.
