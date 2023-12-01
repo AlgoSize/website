@@ -1,4 +1,8 @@
-**Custom Algorithm Design Services**
+---
+title: "Custom Algorithm Design"
+icon: '<i class="fas fa-chart-line"></i>'
+layout: service
+---
 
 **Clear Value Proposition:**
 1. **Problem-Solving Focus**: Our service specializes in addressing complex challenges across various industries such as technology, finance, and healthcare. We provide tailored algorithmic solutions to meet specific industry demands.
