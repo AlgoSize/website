@@ -4,10 +4,11 @@ icon: '<i class="fas fa-chart-line"></i>'
 layout: service
 ---
 
-**Clear Value Proposition:**
-1. **Ethical Assurance**: Focus on providing an ethical review of algorithms, ensuring they comply with the highest standards of fairness and transparency.
-2. **Risk Assessment**: Conduct a comprehensive assessment of risks associated with specific use cases of algorithmic systems.
-3. **Compliance with Legislation**: Review algorithms in light of leading legislation and guidelines in the European Union, the United Kingdom, the United States, and other regions.
+Focus on providing an ethical review of algorithms, ensuring they comply with the highest standards of fairness and transparency.
+
+Conduct a comprehensive assessment of risks associated with specific use cases of algorithmic systems.
+
+Review algorithms in light of leading legislation and guidelines in the European Union, the United Kingdom, the United States, and other regions.
 
 **Detailed Service Description:**
 1. **Scope of Services**: Offering a range of audit services, including ethical review, risk assessment, and compliance checking for various algorithmic systems.
