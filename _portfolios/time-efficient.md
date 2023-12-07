@@ -9,7 +9,6 @@ In the realm of algorithm development, the efficiency and success of projects ar
 <br/>
 <br/>
 ## What are Coding Profiles?
-<br/>
 Coding profiles are detailed assessments of a programmer's competencies and technical prowess, encompassing several essential aspects:
 <br/>
 1. **Level of Expertise**: We meticulously evaluate a programmer's proficiency in various programming languages, ensuring alignment with the specific requirements of each project.
@@ -24,7 +23,6 @@ Coding profiles are detailed assessments of a programmer's competencies and tech
 <br/>
 <br/>
 ## Our Talent Management System
-<br/>
 Our system leverages a blend of machine learning algorithms and human expertise to assess these coding profiles. This process involves:
 <br/>
 1. **Analyzing Job Descriptions and Past Projects**: This helps us understand the required skills and expertise for future projects.
@@ -35,5 +33,4 @@ Our system leverages a blend of machine learning algorithms and human expertise 
 <br/>
 <br/>
 ## Conclusion
-<br/>
 Our talent management system stands at the forefront of enhancing time efficiency in algorithm development. By utilizing detailed coding profiles, we ensure that our projects are staffed with individuals who possess not only the right skills but also align with the specific needs of each project. This approach guarantees that our algorithm development solutions are not only innovative but also efficiently executed, maintaining high standards of quality and performance.
