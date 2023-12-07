@@ -69,17 +69,17 @@ abouts_settings:
   description: Premier Algorithm Development Firm For Your Project
   image: "/assets/images/about-us/1.png"
   image2: "/assets/images/about-us/2.png"
-  text: algosize
+  text: AS
   text2: We specialize in developing custom algorithms tailored to unique business needs across various sectors. Additionally, we offer a platform to effortlessly manage your projects, tasks, budgets, and connect with top-tier talent.
   list:
     - item: Project Management
-      link: ""
+      link: "https://algosize.com/portfolios/project-management"
     - item: Research & Development
-      link: ""
+      link: "https://algosize.com/portfolios/rd"
     - item: Business Development
-      link: ""
+      link: "https://algosize.com/portfolios/business-development"
     - item: Talent Management
-      link: ""
+      link: "https://algosize.com/portfolios/talent-management"
   button:
     name: "Contact Us"
     link: "#contact"
