@@ -5,7 +5,6 @@ post_image: ""
 layout: service
 ---
 
-# Talent Management in Algorithm Development: The Role of Coding Profiles
 <br/>
 In the evolving landscape of technology, talent management is crucial, especially for an algorithm development firm. Our firm has developed a sophisticated system that not only stores candidate information but also efficiently determines the best-suited candidates for specific projects. This determination is largely based on what we refer to as "coding profiles."
 <br/>
