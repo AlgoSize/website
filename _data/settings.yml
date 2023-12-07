@@ -72,26 +72,16 @@ abouts_settings:
   text: A
   text2: We specialize in developing custom algorithms tailored to unique business needs across various sectors. Additionally, we offer a platform to effortlessly manage your projects, tasks, budgets, and connect with top-tier talent.
   list:
-    - item: Custom Algorithm Design
-      link: "https://algosize.com/services/Custom-Algorithm-Design"
-    - item: Algorithm Optimization
-      link: "https://algosize.com/services/Algorithm-Optimization"
-    - item: Machine Learning Model Development
-      link: "https://algosize.com/services/Machine-Learning-Model-Development"
-    - item: Algorithmic Audit & Review
-      link: "https://algosize.com/services/Algorithmic-Audit-Review"
-    - item: Industry-Specific Algorithm Solutions
-      link: "https://algosize.com/services/Industry-Specific-Algorithm-Solutions"
-    - item: Data Structures Implementation
-      link: "https://algosize.com/services/Data-Structures-Implementation"
-    - item: Algorithm Testing & Validation
-      link: "https://algosize.com/services/Algorithm-Testing-Validation"
-    - item: Algorithmic Consultation
-      link: "https://algosize.com/services/Algorithmic-Consultation"
-    - item: Performance Benchmarking
-      link: "https://algosize.com/services/Performance-Benchmarking"
-    - item: Post-deployment Support & Maintenance
-      link: "https://algosize.com/services/Post-deployment-Support-Maintenance"
+    - item: Project Management
+      link: ""
+    - item: Research & Development
+      link: ""
+    - item: Business Development
+      link: ""
+    - item: IT Resource Allocation
+      link: ""
+    - item: Talent
+      link: ""
   button:
     name: "Contact Us"
     link: "#contact"
