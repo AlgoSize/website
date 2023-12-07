@@ -10,9 +10,9 @@ In the dynamic field of algorithm development, managing projects efficiently is 
 <br/>
 ### Hybrid Methodologies: The Best of Both Worlds
 <br/>
-1. **Combining Agility with Structure**: Our hybrid methodologies merge the flexibility of Agile (such as Scrum and Kanban) with the predictability of traditional methods. This blend caters to the diverse nature of algorithm development projects, accommodating both the need for rapid iteration and the requirement for structured planning【1†researchgate.net】【5†linkedin.com】.
+1. **Combining Agility with Structure**: Our hybrid methodologies merge the flexibility of Agile (such as Scrum and Kanban) with the predictability of traditional methods. This blend caters to the diverse nature of algorithm development projects, accommodating both the need for rapid iteration and the requirement for structured planning.
 <br/>
-2. **Scrum and Kanban for Algorithm Development**: Scrum provides a framework for managing complex software projects, while Kanban offers a more flexible approach to workflow management. This combination is particularly beneficial in algorithm development, where tasks vary in complexity and duration【1†researchgate.net】【6†exowanderer.medium.com】.
+2. **Scrum and Kanban for Algorithm Development**: Scrum provides a framework for managing complex software projects, while Kanban offers a more flexible approach to workflow management. This combination is particularly beneficial in algorithm development, where tasks vary in complexity and duration.
 <br/>
 <br/>
 ### Enhanced Git Repository Management
