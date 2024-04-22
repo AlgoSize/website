@@ -34,6 +34,6 @@ Our system uses a combination of machine learning algorithms and human expertise
 <br/>
 - **Skills-Matching and Internal Talent Marketplace**: We use a skills-matching perspective to align candidates' coding profiles with project requirements, ensuring an optimal fit for both the employee and the project.
 <br/>
-
+<br/>
 <br/>
 Our talent management system is at the forefront of ensuring that the right talent is matched with the right project. By utilizing coding profiles, we can precisely gauge a candidate's suitability, ensuring that our algorithm development projects are staffed with individuals who not only have the right skills but also align with the project's specific needs.
