@@ -12,7 +12,7 @@ blogs_settings:
 videos_settings:  
   title: Watch Our Latest Videos
   description: Navigate Algosize, your cohesive platform for managing budget, algorithm development projects, and tasks. Keep everything aligned and transparent in one unified space. 
-  youtube_link: "https://www.youtube.com/watch?v=ebc3lcSmncA"
+  youtube_link: "#"
   button:
     name: "Learn More "
     link: "#"
