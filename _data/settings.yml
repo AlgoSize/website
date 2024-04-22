@@ -59,9 +59,9 @@ cta_settings:
 textimonials_settings:  
   image: /assets/images/testimonial/1.png
   textimonial:
-    - name: "Michele L. Racinea "
-      position: "Web Designer"
-      text: "Avoids pleasur itself because pleas because those who do not know how to pursue plesure rationally encou eque that are extrem painful again is there anyone who loves pursues or desires to obtain pain of itself."
+    - name: "Patrick Schirmann"
+      position: "Founder & CEO of Norsia"
+      text: "We first met at the JP Morgan Hackathon in Oct 2019 part of OpenGeneva and have kept in touch. Since Guillaume has been advising and supporting me with the launching of Norsia on different technical aspects of my business such as website development, front and back end, app development..."
       image: "/assets/images/testimonial/author.png"
 
 abouts_settings:  
