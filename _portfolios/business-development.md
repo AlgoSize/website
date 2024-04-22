@@ -19,7 +19,7 @@ In the era of digital transformation, companies whose core business revolves aro
 
 1. **Understanding Customer Needs**: To select the right algorithms for targeting customers, it's essential to understand customer pain points, preferences, and behaviors. This involves a deep dive into customer data and employing algorithms that can accurately predict customer needs and preferences.
 <br/>
-2. **Algorithmic Marketing Strategies**: Designing AI-driven marketing strategies is key. For firms with limited AI experience, starting with simple rule-based applications and progressively moving to more complex algorithms is a practical approach【5†hbr.org】.
+2. **Algorithmic Marketing Strategies**: Designing AI-driven marketing strategies is key. For firms with limited AI experience, starting with simple rule-based applications and progressively moving to more complex algorithms is a practical approach.
 <br/>
 3. **Prioritizing AI Use Cases**: Identify and prioritize AI use cases that align with strategic business goals. This involves determining which aspects of the business will benefit most from algorithmic solutions, such as customer service, product recommendations, or operational efficiency.
 <br/>
