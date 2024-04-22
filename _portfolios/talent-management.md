@@ -13,6 +13,7 @@ In the evolving landscape of technology, talent management is crucial, especiall
 <br/>
 Coding profiles are comprehensive evaluations of a programmer's skills and expertise. These profiles cover several key aspects:
 <br/>
+<br/>
 1. **Level of Expertise**: This includes the programmer's proficiency in various programming languages. It's crucial to match the language expertise with project requirements.
 <br/>
 2. **Fundamentals of Algorithm Engineering and Development**: Understanding the basics of algorithm development is essential. This includes knowledge of data structures, algorithm design, complexity analysis, and optimization techniques.
@@ -27,6 +28,7 @@ Coding profiles are comprehensive evaluations of a programmer's skills and exper
 ### Our Talent Management System
 <br/>
 Our system uses a combination of machine learning algorithms and human expertise to evaluate these coding profiles. It looks at various data points, including:
+<br/>
 <br/>
 - **Job Descriptions and Past Projects**: By analyzing past projects and specific job roles, we can understand the skills and expertise required for similar future projects.
 <br/>
