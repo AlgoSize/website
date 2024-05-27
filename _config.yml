@@ -14,6 +14,8 @@ instagram_url: "https://instagram.com/algosize"
 linkedin_url: "https://www.linkedin.com/company/algosize/"
 logo_url: "/assets/images/logo.png"
 
+#Google Analytics
+google_analytics: G-MZ49QLY9KL
 
 copyright_text: "&copy; 2024 Algosize. All Rights Reserved"
 phone_number: "+41 22 525 38 52"
