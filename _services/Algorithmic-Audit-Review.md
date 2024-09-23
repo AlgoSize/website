@@ -1,5 +1,5 @@
 ---
-title: "Algorithmic Audit & Review"
+title: "Gain Voting Power"
 icon: '<i class="fas fa-chart-line"></i>'
 layout: service
 ---

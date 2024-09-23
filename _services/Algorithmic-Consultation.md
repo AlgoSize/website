@@ -1,5 +1,5 @@
 ---
-title: "Algorithmic Consultation"
+title: "Hackathons & Travel Perks"
 icon: '<i class="fas fa-chart-line"></i>'
 layout: service
 ---

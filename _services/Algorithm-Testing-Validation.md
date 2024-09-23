@@ -1,5 +1,5 @@
 ---
-title: "Algorithm Testing & Validation"
+title: "Earn Equity"
 icon: '<i class="fas fa-chart-line"></i>'
 layout: service
 ---
