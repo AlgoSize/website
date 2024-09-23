@@ -1,6 +1,6 @@
 teams_settings:  
-  title: our team member
-  description: Meet Our Team of Innovative Minds Specializing in Algorithm Development
+  title: Our Leaders
+  description: The Minds Behind the Mission
 
 blogs_settings:  
   title: News & blog
@@ -10,11 +10,11 @@ blogs_settings:
     link: "/blog/"
 
 videos_settings:  
-  title: Still skeptical?
-  description: Navigate Algosize, your cohesive platform for managing budget, algorithm development projects, and tasks. Keep everything aligned and transparent in one unified space. 
+  title: Hackers
+  description: Join our hacker group to push your skills to the limit, solve complex security challenges, and gain real-world rewards. Collaborate with top talent, earn bounties, equity, and exclusive perks, while helping secure the future of cybersecurity. Ready to level up? 
   youtube_link: "#"
   button:
-    name: "Learn More "
+    name: "Learn More"
     link: "#"
 
 services_settings:  
