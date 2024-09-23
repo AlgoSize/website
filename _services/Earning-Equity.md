@@ -5,7 +5,7 @@ layout: service
 ---
 <br/>
 <br/>
-At **Algosize**, we believe in rewarding hackers not just with immediate payouts, but with long-term opportunities that allow them to grow alongside the company. Our **Equity Earning Strategy** empowers hackers to reinvest their bounty winnings back into the company, increasing their stake in the future of Algosize.
+We believe in rewarding hackers not just with immediate payouts, but with long-term opportunities that allow them to grow alongside the company. Our **Equity Earning Strategy** empowers hackers to reinvest their bounty winnings back into the company, increasing their stake in the future of Algosize.
 <br/>
 <br/>
 ---

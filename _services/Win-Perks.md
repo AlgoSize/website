@@ -1,5 +1,5 @@
 ---
-title: "Hackathons & Travel Perks"
+title: "Win Perks"
 icon: '<i class="fas fa-chart-line"></i>'
 layout: service
 ---
