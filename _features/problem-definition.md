@@ -1,6 +1,6 @@
 ---
-title: "Problem Definition & Requirements Analysis"
+title: "Reinvest."
 icon: "/assets/images/service-icon/3.png"
 ---
 
-Together we define your algorithm's problem, set objectives, and list requirements.
+Reinvest your bounty earnings into the company to grow your equity.

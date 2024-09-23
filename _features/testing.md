@@ -1,6 +1,6 @@
 ---
-title: "Testing, Evaluation, and Iteration"
+title: "Grow."
 icon: "/assets/images/service-icon/2.png"
 ---
 
-We test, evaluate, and refine algorithms for optimized performance.
+Gain reputation, voting power, and exclusive perks as you climb the ranks.
