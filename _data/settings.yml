@@ -65,7 +65,7 @@ textimonials_settings:
       image: "/assets/images/testimonial/author.png"
 
 abouts_settings:  
-  title: Join Algosize
+  title: Who We Are
   description: Hack. Reinvest. Grow.
   image: "/assets/images/about-us/1.png"
   image2: "/assets/images/about-us/2.png"
