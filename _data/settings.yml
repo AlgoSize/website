@@ -18,8 +18,8 @@ videos_settings:
     link: "#"
 
 services_settings:  
-  title: Services
-  description: Premier Algorithm Development for Your Project
+  title: Why Join Algosize?
+  description: Hackers are at the heart of everything we do
 
 projects_settings:  
   title: company fact
@@ -65,12 +65,12 @@ textimonials_settings:
       image: "/assets/images/testimonial/author.png"
 
 abouts_settings:  
-  title: About Us
-  description: Premier Algorithm Development Firm For Your Project
+  title: Join Algosize
+  description: Hack. Reinvest. Grow.
   image: "/assets/images/about-us/1.png"
   image2: "/assets/images/about-us/2.png"
   text: as
-  text2: We specialize in developing custom algorithms tailored to unique business needs across various sectors. Additionally, we offer a platform to effortlessly manage your projects, tasks, budgets, and connect with top-tier talent.
+  text2: Algosize is an innovative cybersecurity company focused on identifying and solving complex security challenges. We believe in a hacker-first approach, where the expertise of ethical hackers is not only rewarded but also reinvested to build a stronger, more resilient cybersecurity ecosystem.
   list:
     - item: Project Management
       link: "https://algosize.com/portfolios/project-management"

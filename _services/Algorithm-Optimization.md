@@ -1,5 +1,5 @@
 ---
-title: "Algorithm Optimization"
+title: "Gamification of Bounties"
 icon: '<i class="fas fa-chart-line"></i>'
 layout: service
 ---
