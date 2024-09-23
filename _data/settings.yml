@@ -10,7 +10,7 @@ blogs_settings:
     link: "/blog/"
 
 videos_settings:  
-  title: Still skeptical?
+  title: Watch Our Latest Videos
   description: Navigate Algosize, your cohesive platform for managing budget, algorithm development projects, and tasks. Keep everything aligned and transparent in one unified space. 
   youtube_link: "#"
   button:
@@ -65,14 +65,12 @@ textimonials_settings:
       image: "/assets/images/testimonial/author.png"
 
 abouts_settings:  
-  title: Who We Are
+  title: Join Algosize
   description: Hack. Reinvest. Grow.
   image: "/assets/images/about-us/1.png"
   image2: "/assets/images/about-us/2.png"
   text: as
   text2: Algosize is an innovative cybersecurity group focused on identifying and solving complex security challenges. We believe in a hacker-first approach, where the expertise of ethical hackers is not only rewarded but also reinvested to build a stronger, more resilient cybersecurity ecosystem.
-
-  Our mission is to protect organizations worldwide through an engaged community of hackers who are passionate about securing digital landscapes.
   list:
     - item: Project Management
       link: "https://algosize.com/portfolios/project-management"
