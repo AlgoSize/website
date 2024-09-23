@@ -22,21 +22,21 @@ services_settings:
   description: Hackers are at the heart of everything we do
 
 projects_settings:  
-  title: company fact
-  description: Our Teams Achivement Journey
+  title: Hacker Group
+  description: Achivement Journey
   button:
     name: "get started "
     link: "#"
   counter:
     - icon: '<i class="fas fa-rocket"></i>'
-      name: "Project completed"
-      count: 25
+      name: "Bounties Won"
+      count: 12
     - icon: '<i class="fas fa-life-ring"></i>'
-      name: "Satisfied Clients"
+      name: "Hackathons"
       count: 5
     - icon: '<i class="fas fa-universal-access"></i>'
-      name: "Expert Team Member"
-      count: 28
+      name: "Hackers"
+      count: 4
 
 portfolios_settings:  
   title: About Us
@@ -70,7 +70,7 @@ abouts_settings:
   image: "/assets/images/about-us/1.png"
   image2: "/assets/images/about-us/2.png"
   text: as
-  text2: Algosize is an innovative cybersecurity company focused on identifying and solving complex security challenges. We believe in a hacker-first approach, where the expertise of ethical hackers is not only rewarded but also reinvested to build a stronger, more resilient cybersecurity ecosystem.
+  text2: Algosize is an innovative cybersecurity group focused on identifying and solving complex security challenges. We believe in a hacker-first approach, where the expertise of ethical hackers is not only rewarded but also reinvested to build a stronger, more resilient cybersecurity ecosystem.
   list:
     - item: Project Management
       link: "https://algosize.com/portfolios/project-management"
