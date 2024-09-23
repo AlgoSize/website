@@ -10,7 +10,7 @@ blogs_settings:
     link: "/blog/"
 
 videos_settings:  
-  title: Watch Our Latest Videos
+  title: Still skeptical?
   description: Navigate Algosize, your cohesive platform for managing budget, algorithm development projects, and tasks. Keep everything aligned and transparent in one unified space. 
   youtube_link: "#"
   button:
