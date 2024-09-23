@@ -10,7 +10,7 @@ blogs_settings:
     link: "/blog/"
 
 videos_settings:  
-  title: Hackers
+  title: Ethical Hackers
   description: Join our hacker group to push your skills to the limit, solve complex security challenges, and gain real-world rewards. Collaborate with top talent, earn bounties, equity, and exclusive perks, while helping secure the future of cybersecurity. Ready to level up? 
   youtube_link: "#"
   button:
