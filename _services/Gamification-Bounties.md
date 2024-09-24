@@ -25,12 +25,12 @@ Our gamification system ranks hackers based on their performance across several 
      - 11+ bounties: 20 points per bounty
 <br/>
 <br/>
-2. **Sum of Bounties Earned (40% of total score)**
-   - The total monetary value of bounties collected influences the ranking, incentivizing high-value bounty wins.
+2. **Sum of Bounties Earned (40% of total score)**  
+   - The total monetary value of bounties collected influences the ranking, incentivizing high-value bounty wins. This scoring system offers greater rewards for higher sums.
    - **Scoring**:
-     - $0 - $5,000: 1 point per $100 earned
-     - $5,001 - $20,000: 2 points per $100 earned
-     - $20,001+: 3 points per $100 earned
+     - $0 - $5,000: 2 points per $100 earned
+     - $5,001 - $20,000: 4 points per $100 earned
+     - $20,001+: 6 points per $100 earned
 <br/>
 <br/>
 3. **Problem Complexity (30% of total score)**
@@ -68,12 +68,16 @@ If a hacker wins 8 bounties totaling $12,000, 3 of which were high complexity, a
 <br/>
 <br/>
 - **Number of Bounties**: 8 bounties = 15 points x 8 = 120 points
-- **Sum of Bounties**: $12,000 = ($5,000 x 1 point) + ($7,000 x 2 points) = 19 points
+- **Sum of Bounties**:  
+  - First $5,000 = $5,000 x 2 points per $100 = 100 points  
+  - Remaining $7,000 = $7,000 x 4 points per $100 = 280 points  
+  - **Total from Sum of Bounties** = 100 + 280 = **380 points**
 - **Problem Complexity**: 3 high complexity bounties = 200 points x 3 = 600 points
-- **Community Participation**: 3 useful contributions on **#dev-chats** = 3 points x 3 = 9 points  
-  2 approved code reviews on **#code-reviews** = 5 points x 2 = 10 points
+- **Community Participation**:  
+  - 3 useful contributions on **#dev-chats** = 3 points x 3 = 9 points  
+  - 2 approved code reviews on **#code-reviews** = 5 points x 2 = 10 points
 <br/>
 <br/>
-**Total Score = 120 + 19 + 600 + 9 + 10 = 758 points**
+**Total Score = 120 + 380 + 600 + 9 + 10 = 1,119 points**
 <br/>
 <br/>
