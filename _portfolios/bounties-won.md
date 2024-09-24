@@ -1,7 +1,6 @@
 ---
-title: "Business Development"
+title: "Bounties Won"
 sub_title: ""
-post_image: ""
 layout: service
 ---
 
