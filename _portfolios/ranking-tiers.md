@@ -20,6 +20,7 @@ layout: service
 ---
 <br/>
 <br/>
+
 ### **2. Junior Hacker**  
    - **Icon**: 🛡️ **Bronze Shield**  
    - **Description**: Members who have participated in a few challenges and contributed to discussions.  
