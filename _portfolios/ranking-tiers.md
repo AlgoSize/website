@@ -1,7 +1,6 @@
 ---
 title: "Ranking Tiers"
 sub_title: "Light Illustration"
-post_image: ""
 layout: service
 ---
 <br/>
