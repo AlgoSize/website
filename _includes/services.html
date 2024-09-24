@@ -14,6 +14,12 @@
            {% for service in site.services %}
             <div class="col-lg-6 mb-4">
                 <div class="single-service-box">
+                    <div class="single-service-icon-box">
+                        <p>{% if forloop.index < 10 %} 0{{forloop.index}} {% else %} {{forloop.index}} {% endif %}</p>
+                        {% if service.icon %}
+                          {{service.icon}}
+                        {% endif %}
+                    </div>
                     <div class="service-box-content">
                         <h3>Earn Equity</h3>
                         <p>Hackers can reinvest their bounty winnings for equity, earning a stake in the company’s future while unlocking exclusive perks.</p>
