@@ -1,7 +1,6 @@
 ---
 title: "Exclusive Perks"
 sub_title: ""
-post_image: ""
 layout: service
 ---
 <br/>
