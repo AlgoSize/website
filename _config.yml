@@ -1,9 +1,9 @@
 title: "Global Impact Hacker Group"
-email: "info@algosize.com"
+email: <font color="white"><a href="mailto:info@algosize.com">info@algosize.com</a></font>
 description: >- # this means to ignore newlines until "baseurl:"
-  Discover AlgoSize: Offering tailored algorithm services to meet 
-  your unique business needs. Elevate your operations with our innovative, 
-  scalable solutions.
+  Join our elite ethical hacker group dedicated to discovering and 
+  fixing security vulnerabilities. Collaborate on global cybersecurity 
+  challenges, participate in hackathons, and earn rewards while protecting digital ecosystems.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://algosize.com" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -18,9 +18,9 @@ logo_url: "/assets/images/logo.png"
 google_analytics: G-MZ49QLY9KL
 
 copyright_text: "&copy; 2024 Algosize. All Rights Reserved"
-phone_number: <p style="color: white;"><a href="https://discord.gg/vm9JmMn6HP">Discord Channel</a></p>
+phone_number: <font color="white"><a href="https://discord.gg/vm9JmMn6HP">Discord Channel</a></font>
 address: "Geneva, Switzerland"
-office_time: <p style="color: white;"><a href="https://discord.gg/vm9JmMn6HP">Report Bounty/Issue</a></p>
+office_time: <font color="white"><a href="https://discord.gg/vm9JmMn6HP">Report Bounty/Issue</a></font>
 
 # Build settings
 theme: minima
