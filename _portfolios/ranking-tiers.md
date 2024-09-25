@@ -21,9 +21,9 @@ layout: service
 **Voting Power**: None
 
 **Permissions**:
-- Read and send messages in `#current-challenges`, `#hackathon-discussion`, `#dev-chat`
-- View `#code-reviews`, `#security-alerts`, `#compliance` (but not post)
-- Join `General Voice` channel
+-Read and send messages in `#current-challenges`, `#hackathon-discussion`, `#dev-chat`
+-View `#code-reviews`, `#security-alerts`, `#compliance` (but not post)
+-Join `General Voice` channel
 
 **Resource Access**: Limited
 
@@ -44,10 +44,10 @@ layout: service
 **Voting Power**: None
 
 **Permissions**:
-- All **Novice Hacker** permissions
-- Post in `#code-reviews`, `#team-formation`, `#security-alerts`
-- Access to `#job-board` for potential work or contracts
-- Join `Team Meetings` voice channel
+-All **Novice Hacker** permissions
+-Post in `#code-reviews`, `#team-formation`, `#security-alerts`
+-Access to `#job-board` for potential work or contracts
+-Join `Team Meetings` voice channel
 
 **Resource Access**: Access to software tools for development and learning
 
@@ -68,10 +68,10 @@ layout: service
 **Voting Power**: None
 
 **Permissions**:
-- All **Junior Hacker** permissions
-- Can create threads in `#hackathon-discussion`
-- Access to `#team-management` for organizing teams and managing projects
-- Join `Hackathon Room` voice channel
+-All **Junior Hacker** permissions
+-Can create threads in `#hackathon-discussion`
+-Access to `#team-management` for organizing teams and managing projects
+-Join `Hackathon Room` voice channel
 
 **Resource Access**: Limited access to advanced software and tools, partial funding for hackathons (no travel)
 
@@ -92,10 +92,10 @@ layout: service
 **Voting Power**: Limited to minor decisions (no strategic or board-level voting)
 
 **Permissions**:
-- All **Skilled Hacker** permissions
-- Full access to `#team-management` for managing team projects
-- Post in `#current-challenges` and access advanced hackathon details
-- Can create and manage events in `Hackathon Room`
+-All **Skilled Hacker** permissions
+-Full access to `#team-management` for managing team projects
+-Post in `#current-challenges` and access advanced hackathon details
+-Can create and manage events in `Hackathon Room`
 
 **Resource Access**: Access to premium software, paid entry for hackathons, partial travel funding
 
@@ -116,9 +116,9 @@ layout: service
 **Voting Power**: Full voting rights on strategic decisions and leadership matters
 
 **Permissions**:
-- All **Expert Hacker** permissions
-- Access to `#advanced-discussions` for high-level strategy
-- Can moderate `#code-reviews` and `#security-alerts`
+-All **Expert Hacker** permissions
+-Access to `#advanced-discussions` for high-level strategy
+-Can moderate `#code-reviews` and `#security-alerts`
 
 **Resource Access**: Full funding for hackathons, including travel, accommodation, and food
 
@@ -139,9 +139,9 @@ layout: service
 **Voting Power**: Full voting rights on all company decisions
 
 **Permissions**:
-- All **Elite Hacker** permissions
-- Can organize workshops and mentoring sessions in `#team-formation` and `#job-board`
-- Full moderator privileges in all development and coding channels
+-All **Elite Hacker** permissions
+-Can organize workshops and mentoring sessions in `#team-formation` and `#job-board`
+-Full moderator privileges in all development and coding channels
 
 **Resource Access**: Access to all resources, including paid attendance at cybersecurity events and conferences
 
@@ -162,10 +162,10 @@ layout: service
 **Voting Power**: Full voting rights
 
 **Permissions**:
-- All **Mentor** permissions
-- Manage all text and voice channels
-- Ability to mute, kick, and ban users if necessary
-- Moderate all hackathon-related channels
+-All **Mentor** permissions
+-Manage all text and voice channels
+-Ability to mute, kick, and ban users if necessary
+-Moderate all hackathon-related channels
 
 **Resource Access**: Same as **Mentor**
 
@@ -186,10 +186,10 @@ layout: service
 **Voting Power**: Highest level of voting influence, including control over leadership, strategic shifts, and company finances
 
 **Permissions**:
-- All **Moderator** permissions
-- Manage all server roles and settings
-- Create and delete channels
-- Oversee the scoring system and approve new features for the Discord server
+-All **Moderator** permissions
+-Manage all server roles and settings
+-Create and delete channels
+-Oversee the scoring system and approve new features for the Discord server
 
 **Resource Access**: All-access to the company’s resources
 
@@ -198,26 +198,29 @@ layout: service
 ---
 <br/>
 <br/>
+
 ### **Vesting Schedules & Voting Power Restrictions**
-- **Phantom Equity (Novice, Junior, Skilled Hackers)**: Phantom equity is subject to a **1-year cliff**, followed by **4-year vesting**. No voting power is assigned.
-- **Class B Shares (Expert Hacker)**: Class B shareholders have **limited voting rights** (minor operational decisions only) and are subject to **1-year cliff** and **3-year vesting**.
-- **Class A Shares (Elite, Mentor, Moderator)**: These shareholders have **full voting rights** on company matters, with a **1-year cliff** and **3-year vesting**.
-- **Founder’s Shares (Admin)**: These shares vest immediately and come with **enhanced voting power** (10x the voting weight of Class A shares).
+-**Phantom Equity (Novice, Junior, Skilled Hackers)**: Phantom equity is subject to a **1-year cliff**, followed by **4-year vesting**. No voting power is assigned.
+-**Class B Shares (Expert Hacker)**: Class B shareholders have **limited voting rights** (minor operational decisions only) and are subject to **1-year cliff** and **3-year vesting**.
+-**Class A Shares (Elite, Mentor, Moderator)**: These shareholders have **full voting rights** on company matters, with a **1-year cliff** and **3-year vesting**.
+-**Founder’s Shares (Admin)**: These shares vest immediately and come with **enhanced voting power** (10x the voting weight of Class A shares).
 <br/>
 <br/>
 ---
 <br/>
 <br/>
+
 ### **Phantom Equity Explanation:**
-- **Phantom Equity** is a financial reward that simulates stock ownership but does not involve actual share issuance. Hackers earn payouts based on company valuation without receiving real shares, ensuring they benefit from the company's success while retaining control with core stakeholders.
+-**Phantom Equity** is a financial reward that simulates stock ownership but does not involve actual share issuance. Hackers earn payouts based on company valuation without receiving real shares, ensuring they benefit from the company's success while retaining control with core stakeholders.
 <br/>
 <br/>
 ---
 <br/>
 <br/>
+
 ### **Perks & Resource Access Breakdown**:
-- **Novice/Junior Hacker (🛡️ Copper/Bronze)**: Access to learning materials and basic software.
-- **Skilled/Expert Hacker (🛡️ Silver/Gold)**: Advanced software tools, partial funding for hackathons, and premium software.
-- **Elite Hacker (🛡️ Platinum)**: Full hackathon sponsorship (travel, accommodation, entry fees), premium software, and tools.
-- **Mentor/Moderator (🛡️ Diamond/Obsidian)**: Full access to all resources, including paid conferences and events.
-- **Admin (🛡️ Titanium)**: Full server and resource control, including top-level decision-making.
+-**Novice/Junior Hacker (🛡️ Copper/Bronze)**: Access to learning materials and basic software.
+-**Skilled/Expert Hacker (🛡️ Silver/Gold)**: Advanced software tools, partial funding for hackathons, and premium software.
+-**Elite Hacker (🛡️ Platinum)**: Full hackathon sponsorship (travel, accommodation, entry fees), premium software, and tools.
+-**Mentor/Moderator (🛡️ Diamond/Obsidian)**: Full access to all resources, including paid conferences and events.
+-**Admin (🛡️ Titanium)**: Full server and resource control, including top-level decision-making.
