@@ -18,9 +18,9 @@ logo_url: "/assets/images/logo.png"
 google_analytics: G-MZ49QLY9KL
 
 copyright_text: "&copy; 2024 Algosize. All Rights Reserved"
-phone_number: <a href="https://discord.gg/vm9JmMn6HP">Discord Channel</a>
+phone_number: <p style="color: white;"><a href="https://discord.gg/vm9JmMn6HP">Discord Channel</a></p>
 address: "Geneva, Switzerland"
-office_time: <a href="https://discord.gg/vm9JmMn6HP">Report Bounty/Bug</a>
+office_time: <p style="color: white;"><a href="https://discord.gg/vm9JmMn6HP">Report Bounty/Issue</a></p>
 
 # Build settings
 theme: minima
