@@ -3,8 +3,8 @@ layout: post
 title: "Privacy-Preserving ML with ZKP"
 date: 2024-08-16 20:37:13 +0600
 tags: technology education
-categories: [ML] [ZKP]
-author: "lauzier"
+categories: [ML, ZKP]
+author: Lauzier
 post_image: "/assets/images/blog/01.jpg"
 ---
 
