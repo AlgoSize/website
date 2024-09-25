@@ -5,9 +5,10 @@ layout: service
 ---
 <br/>
 <br/>
+
 ### **1. Novice Hacker**  
 - **Icon**: 🛡️ **Copper Shield**  
-- **Points Required**: **0 - 1,000 points**  
+- **Points Required**: **0 - 2,500 points**  
 - **Equity Type**: **Phantom Equity**  
   - **Explanation**: Novice Hackers earn **phantom equity**, which allows them to benefit from the company's growth without owning real shares. Phantom equity mimics stock value but doesn’t provide ownership or voting power. It can be cashed out after a specific vesting period or liquidity event.
 - **Vesting Schedule**: **1-year cliff**, followed by **4-year vesting** (25% per year).  
@@ -19,12 +20,15 @@ layout: service
 - **Resource Access**: Limited
 <br/>
 <br/>
+
 ---
+
 <br/>
 <br/>
+
 ### **2. Junior Hacker**  
 - **Icon**: 🛡️ **Bronze Shield**  
-- **Points Required**: **1,001 - 3,000 points**  
+- **Points Required**: **2,501 - 7,500 points**  
 - **Equity Type**: **Phantom Equity**  
   - **Explanation**: Junior Hackers also earn **phantom equity**, providing them the financial benefits of company growth without voting rights or real ownership. It can be converted into rewards after a vesting period.
 - **Vesting Schedule**: **1-year cliff**, followed by **4-year vesting**  
@@ -37,12 +41,15 @@ layout: service
 - **Resource Access**: Access to software tools for development and learning
 <br/>
 <br/>
+
 ---
+
 <br/>
 <br/>
+
 ### **3. Skilled Hacker**  
 - **Icon**: 🛡️ **Silver Shield**  
-- **Points Required**: **3,001 - 7,500 points**  
+- **Points Required**: **7,501 - 15,000 points**  
 - **Equity Type**: **Phantom Equity**  
   - **Explanation**: Skilled Hackers continue to earn **phantom equity**, allowing them to accumulate rewards over time without direct ownership of the company or voting power. They can cash in phantom equity at a future date based on company growth.
 - **Vesting Schedule**: **1-year cliff**, followed by **4-year vesting**  
@@ -55,12 +62,15 @@ layout: service
 - **Resource Access**: Limited access to advanced software and tools, partial funding for hackathons (no travel)
 <br/>
 <br/>
+
 ---
+
 <br/>
 <br/>
+
 ### **4. Expert Hacker**  
 - **Icon**: 🛡️ **Gold Shield**  
-- **Points Required**: **7,501 - 15,000 points**  
+- **Points Required**: **15,001 - 30,000 points**  
 - **Equity Type**: **Class B Non-Voting Shares**  
   - **Explanation**: Expert Hackers earn **Class B shares**, providing them equity ownership and dividends but **no voting rights**. This allows them to benefit financially from company growth without affecting control.
 - **Vesting Schedule**: **1-year cliff**, followed by **3-year vesting**  
@@ -73,12 +83,15 @@ layout: service
 - **Resource Access**: Access to premium software, paid entry for hackathons, partial travel funding
 <br/>
 <br/>
+
 ---
+
 <br/>
 <br/>
+
 ### **5. Elite Hacker**  
 - **Icon**: 🛡️ **Platinum Shield**  
-- **Points Required**: **15,001 - 25,000 points**  
+- **Points Required**: **30,001 - 50,000 points**  
 - **Equity Type**: **Class A Voting Shares**  
   - **Explanation**: Elite Hackers earn **Class A shares**, granting them **full voting rights** on major company decisions. This includes strategic planning, leadership elections, and company policies.
 - **Vesting Schedule**: **1-year cliff**, followed by **3-year vesting**  
@@ -90,12 +103,15 @@ layout: service
 - **Resource Access**: Full funding for hackathons, including travel, accommodation, and food
 <br/>
 <br/>
+
 ---
+
 <br/>
 <br/>
+
 ### **6. Mentor**  
 - **Icon**: 🛡️ **Diamond Shield**  
-- **Points Required**: **25,001 - 40,000 points**  
+- **Points Required**: **50,001 - 75,000 points**  
 - **Equity Type**: **Class A Voting Shares**  
   - **Explanation**: Mentors earn **Class A shares** with full voting rights, including the ability to vote on board members and company direction. They are deeply involved in major decisions.
 - **Vesting Schedule**: **1-year cliff**, followed by **3-year vesting**  
@@ -107,12 +123,15 @@ layout: service
 - **Resource Access**: Access to all resources, including paid attendance at cybersecurity events and conferences
 <br/>
 <br/>
+
 ---
+
 <br/>
 <br/>
+
 ### **7. Moderator**  
 - **Icon**: 🛡️ **Obsidian Shield**  
-- **Points Required**: **40,001 - 50,000 points**  
+- **Points Required**: **75,001 - 100,000 points**  
 - **Equity Type**: **Class A Voting Shares**  
   - **Explanation**: Moderators hold **Class A shares** with full voting rights in all company matters, providing them influence over both operational and strategic issues.
 - **Vesting Schedule**: **1-year cliff**, followed by **3-year vesting**  
@@ -125,9 +144,12 @@ layout: service
 - **Resource Access**: Same as **Mentor**
 <br/>
 <br/>
+
 ---
+
 <br/>
 <br/>
+
 ### **8. Admin**  
 - **Icon**: 🛡️ **Titanium Shield**  
 - **Points Required**: **No points requirement** (Assigned based on trust and responsibility)  
