@@ -166,7 +166,13 @@ In addition, joining **Algosize** opens doors to **exclusive opportunities** tha
 
 -The chance to be part of a **recognized team**, giving you credibility in the cybersecurity field and helping to build a **professional portfolio** under the guidance of an established company.
 
+<br/>
+<br/>
+
 By being part of **Algosize**, you not only enhance your career prospects but also receive the **legal and professional framework** that allows you to thrive in a field where regulations and risks are often a challenge for independent hackers.
+<br/>
+<br/>
+
 ---
 <br/>
 <br/>
