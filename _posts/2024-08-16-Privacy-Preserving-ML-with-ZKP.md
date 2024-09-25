@@ -5,7 +5,7 @@ date: 2024-08-16 20:37:13 +0600
 tags: technology education
 categories: [ML, ZKP]
 author: Lauzier
-post_image: "/assets/images/blog/01.jpg"
+post_image: "/assets/images/blog/illustration.png"
 ---
 
 🎉 **We’re thrilled to announce that we’ve won the Privacy Track at ZK Hack Montreal!** 🎉
@@ -26,6 +26,9 @@ Our project, **Privacy-Preserving Machine Learning with Zero-Know**, focused on 
 Using NovaNet's **zkEngine** with privacy enabled, we developed a **zkWasm app** that empowers privacy-centric use-cases. Our solution ensures **trustless collaboration**, allowing multiple parties to perform machine learning and data analysis **without sharing sensitive data**. This innovation opens new doors for cooperation in industries where data security is paramount, enabling more efficient and secure outcomes.
 </br>
 </br>
+
+![Alt text](/assets/images/blog/diagram-zkml.png)
+
 
 🚧 **Challenges We Faced**:  
 While working on this project, we encountered challenges with **proof aggregation**, a feature we plan to tackle in the future once the NovaNet library further evolves. We're excited to explore new folding schemes for improved interoperability down the line.
@@ -56,3 +59,6 @@ A big thank you to the **ZK Hack Montreal** team and **NovaNet** for the opportu
 Stay tuned for future developments as we continue refining our privacy-preserving solutions! 🚀
 
 #ZKHack #ZeroKnowledgeProofs #PrivacyTech #MachineLearning #NovaNet #zkWasm #Hackathon #ZKHackMontreal
+
+![Alt text](/assets/images/blog/screenshot-zkml.png)
+![Alt text](/assets/images/blog/screenshot-zkml2.png)
