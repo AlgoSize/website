@@ -154,14 +154,14 @@ layout: service
 - **Icon**: 🛡️ **Titanium Shield**  
 - **Points Required**: **No points requirement** (Assigned based on trust and responsibility)  
 - **Equity Type**: **Founder's Shares with Enhanced Voting Rights**  
-  - **Explanation**: Admins hold **Founder's Shares**, granting them **10x voting power** relative to Class A shares. This ensures that they retain control over the company’s direction and major decisions.
+  \- **Explanation**: Admins hold **Founder's Shares**, granting them **10x voting power** relative to Class A shares. This ensures that they retain control over the company’s direction and major decisions.
 - **Vesting Schedule**: **Immediate vesting**, no cliff required  
 - **Voting Power**: **Highest level of voting influence**, including control over leadership, strategic shifts, and company finances  
 - **Permissions**:
-  - All **Moderator** permissions.
-  - Manage all server roles and settings.
-  - Create and delete channels.
-  - Oversee the scoring system and approve new features for the Discord server.
+  \- All **Moderator** permissions.
+  \- Manage all server roles and settings.
+  \- Create and delete channels.
+  \- Oversee the scoring system and approve new features for the Discord server.
 - **Resource Access**: All-access to the company’s resources
 <br/>
 <br/>
