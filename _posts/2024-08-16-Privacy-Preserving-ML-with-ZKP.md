@@ -27,7 +27,7 @@ Using NovaNet's **zkEngine** with privacy enabled, we developed a **zkWasm app**
 <br>
 <br>
 
-!(/assets/images/blog/diagram-zkml.jpg)
+![](/assets/images/blog/diagram-zkml.jpg)
 
 <br>
 <br>
@@ -62,5 +62,6 @@ Stay tuned for future developments as we continue refining our privacy-preservin
 
 #ZKHack #ZeroKnowledgeProofs #PrivacyTech #MachineLearning #NovaNet #zkWasm #Hackathon #ZKHackMontreal
 
-!(/assets/images/blog/screenshot-zkml.png)
-!(/assets/images/blog/screenshot-zkml2.png)
+![](/assets/images/blog/screenshot-zkml.png)
+
+![](/assets/images/blog/screenshot-zkml2.png)
