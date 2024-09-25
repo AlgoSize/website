@@ -3,9 +3,6 @@ title: "Earn Equity"
 icon: '<i class="fas fa-chart-line"></i>'
 layout: service
 ---
-<br/>
-<br/>
-
 We prioritize long-term opportunities, allowing hackers to grow alongside the company. Through our **Equity Earning Strategy**, hackers can reinvest their bounty winnings back into the company and increase their stake. This structure not only rewards contributions but also provides access to future financial and strategic benefits.
 <br/>
 <br/>
@@ -23,11 +20,13 @@ When a hacker team wins a bounty, they are presented with two choices:
 <br/>
 
 -**Claim the bounty in full**: Receive the bounty as an immediate cash reward.
+
 -**Reinvest the bounty**: Reinvest part or all of the bounty back into the company in exchange for equity.
 <br/>
 <br/>
 
 Reinvesting allows hackers to **earn more points** in the **Gamification Scoring System**, unlocking additional benefits such as:
+
 -**Paid travel expenses** to global hackathons and cybersecurity events
 
 -Access to **advanced hardware and software**
