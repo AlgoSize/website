@@ -26,7 +26,7 @@ Algosize provides rapid and comprehensive **Incident Response** services to help
 
 -**24/7 Response Availability**: Cyber incidents can happen at any time. Our team is available around the clock, ready to respond immediately to critical security events, minimizing downtime and disruption to your operations.
 <br>
-</br>
+<br>
 
 -**Comprehensive Threat Mitigation**: We don’t just stop at incident containment. Algosize provides full-spectrum services, including root cause analysis, threat eradication, and system recovery to ensure that your organization is back up and running securely as quickly as possible.
 <br>
