@@ -73,7 +73,7 @@ abouts_settings:
   text2: Algosize is an innovative cybersecurity company focused on identifying and solving complex security challenges. We believe in a hacker-first approach, where the expertise of ethical hackers is not only rewarded but also reinvested to build a stronger, more resilient cybersecurity ecosystem. <br> <br> Our mission is to protect organizations worldwide through an engaged community of hackers who are passionate about securing digital landscapes.
   list:
     - item: Penetration Testing
-      link: "https://algosize.com/portfolios/penetration"
+      link: "https://algosize.com/services/penetration"
     - item: Incident Response
       link: "https://algosize.com/portfolios/incident"
     - item: Security Audits & Compliance Testing
