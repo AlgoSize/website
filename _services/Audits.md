@@ -1,7 +1,6 @@
 ---
 title: "Security Audits"
-sub_title: ""
-post_image: ""
+icon: '<i class="fas fa-chart-line"></i>'
 layout: service
 ---
 Our **security audit service** is designed to provide an in-depth evaluation of your organization's security posture. We combine cutting-edge technology with the expertise of our **global community of ethical hackers** to deliver comprehensive and actionable insights into your security vulnerabilities. Our audits are tailored to meet the unique needs of your business, ensuring that your systems, networks, and applications are secure from potential threats.

@@ -1,7 +1,6 @@
 ---
 title: "Bug Bounty Programs"
-sub_title: ""
-post_image: ""
+icon: '<i class="fas fa-chart-line"></i>'
 layout: service
 ---
 
