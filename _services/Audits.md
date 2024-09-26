@@ -108,6 +108,8 @@ We are committed to upholding the highest ethical standards in all our audits. O
 -**Ethical and Professional**: Our hackers adhere to strict ethical guidelines, ensuring responsible and transparent assessments.
 <br/>
 <br/>
+<br/>
+<br/>
 
 With Algosize's **Security Audit Services**, you receive more than just a standard audit—you gain a proactive partner in strengthening your organization's security posture. Our unique hacker-driven methodology provides in-depth, real-world insights to keep your digital assets secure from today's sophisticated cyber threats.
 <br/>
