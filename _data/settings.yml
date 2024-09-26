@@ -75,11 +75,11 @@ abouts_settings:
     - item: Penetration Testing
       link: "https://algosize.com/services/penetration"
     - item: Incident Response
-      link: "https://algosize.com/portfolios/incident"
+      link: "https://algosize.com/services/incident"
     - item: Security Audits & Compliance Testing
-      link: "https://algosize.com/portfolios/audits"
+      link: "https://algosize.com/services/audits"
     - item: Bug Bounty Programs
-      link: "https://algosize.com/portfolios/bug-bounty"
+      link: "https://algosize.com/services/bug-bounty"
   button:
     name: "Contact Us"
     link: "#contact"
