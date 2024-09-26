@@ -96,9 +96,13 @@ We understand that every organization has unique security needs. Our penetration
 <br/>
 
 -**Global Expertise**: A community of highly skilled hackers from around the world.
+
 -**Comprehensive Testing**: Covering all aspects of your digital infrastructure.
+
 -**Continuous Engagement**: Ensuring ongoing protection through continuous testing.
+
 -**Ethical and Transparent**: Operating with the highest ethical standards.
+
 -**Tailored Solutions**: Customized penetration testing services to meet your specific needs.
 <br/>
 <br/>

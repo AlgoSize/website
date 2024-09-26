@@ -4,9 +4,6 @@ icon: '<i class="fas fa-chart-line"></i>'
 layout: service
 ---
 
-</br>
-</br>
-
 Algosize provides rapid and comprehensive **Incident Response** services to help organizations mitigate the impact of cyberattacks, data breaches, and other security incidents. Our response team consists of highly skilled ethical hackers, uniquely qualified to handle sophisticated threats with precision and agility. Whether it's a ransomware attack, unauthorized access, or data leakage, our incident response service ensures that your organization can recover swiftly and securely.
 </br>
 </br>
