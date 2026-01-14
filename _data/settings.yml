@@ -70,18 +70,24 @@ abouts_settings:
   image: "/assets/images/about-us/1.png"
   image2: "/assets/images/about-us/2.png"
   text: <h1 style="font-size:18px; ">[as]</h1>
-  text2: Algosize is an innovative cybersecurity company focused on identifying and solving complex security challenges. We believe in a hacker-first approach, where the expertise of ethical hackers is not only rewarded but also reinvested to build a stronger, more resilient cybersecurity ecosystem. <br> <br> Our mission is to protect organizations worldwide through an engaged community of hackers who are passionate about securing digital landscapes.
+  text2: Algosize is a security-focused development firm dedicated to building digital infrastructure that is resilient by default. We bridge the gap between elite performance engineering and deep-tier cybersecurity. Our mission is to empower organizations with software and infrastructure that isn't just fast, but inherently private and impenetrable.
   list:
-    - item: Penetration Testing
-      link: "https://algosize.com/services/Penetration"
-    - item: Incident Response
-      link: "https://algosize.com/services/Incident"
-    - item: Security Audits & Compliance Testing
-      link: "https://algosize.com/services/Audits"
-    - item: Bug Bounty Programs
-      link: "https://algosize.com/services/Bug-Bounty"
+    - item: Secure Software Development (SSDLC)
+      link: "https://algosize.com/services/ssdlc"
+    - item: Infrastructure-as-Code (IaC) Hardening
+      link: "https://algosize.com/services/iac"
+    - item: Privacy-Preserving Computation
+      link: "https://algosize.com/services/privacy"
+    - item: High-Performance Resilience & Auditing
+      link: "https://algosize.com/services/high-performance"
+    - item: AI Clusters & Automation
+      link: "https://algosize.com/services/ai-clusters"
+    - item: Blockchain Development & Infrastructure
+      link: "https://algosize.com/services/blockchain"
+    - item: Render Farms
+      link: "https://algosize.com/services/render"
   button:
-    name: "Contact Us"
+    name: "CONSULT AN ARCHITECT"
     link: "#contact"
 
 pricings_settings:  
