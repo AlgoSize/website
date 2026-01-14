@@ -1,6 +1,6 @@
 ---
-title: "Reinvest."
+title: "FORTIFY."
 icon: "/assets/images/service-icon/2.png"
 ---
 
-Reinvest your bounty earnings into the company to grow your equity.
+Execute deep-tier audits and automated code reviews. Eliminate vulnerabilities and harden your defense before launch.

@@ -1,6 +1,6 @@
 ---
-title: "Grow."
+title: "DEPLOY."
 icon: "/assets/images/service-icon/3.png"
 ---
 
-Gain reputation, voting power, and exclusive perks as you climb the ranks.
+Launch resilient, high-performance systems. Scale seamlessly while maintaining total privacy and cryptographic integrity.
