@@ -10,16 +10,16 @@ blogs_settings:
     link: "/blog/"
 
 videos_settings:  
-  title: Ethical Hackers
-  description: Join our hacker group to push your skills to the limit, solve complex security challenges, and gain real-world rewards. Collaborate with top talent, earn bounties, equity, and exclusive perks, while helping secure the future of cybersecurity. Ready to level up? 
+  title: Elite Engineering
+  description: We are not just coders; we are architects of resilience. Our team is composed of world-class engineers specializing in high-compute infrastructure—from scaling AI clusters and render farms to securing blockchain protocols. We don't just find vulnerabilities; we build systems that eliminate them by design. 
   youtube_link: "#"
   button:
-    name: "Learn More"
+    name: "See Our Expertise"
     link: "#"
 
 services_settings:  
-  title: Why Join Us?
-  description: Hackers are at the heart of everything we do
+  title: OUR PHILOSOPHY
+  description: Security is the foundation of everything we architect
 
 projects_settings:  
   title: Hacker Group
