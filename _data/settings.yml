@@ -10,11 +10,11 @@ blogs_settings:
     link: "/blog/"
 
 videos_settings:  
-  title: Elite Engineering
-  description: We are not just coders; we are architects of resilience. Our team is composed of world-class engineers specializing in high-compute infrastructure—from scaling AI clusters and render farms to securing blockchain protocols. We don't just find vulnerabilities; we build systems that eliminate them by design. 
+  title: Engineering at the Edge
+  description: We operate where standard software fails. From training Large Language Models (LLMs) on custom clusters to auditing smart contracts for nine-figure DeFi protocols, Algosize bridges the gap between theoretical mathematics and production-grade infrastructure. We don't just write code; we architect resilience.
   youtube_link: "#"
   button:
-    name: "See Our Expertise"
+    name: "View Technical Demos"
     link: "#"
 
 services_settings:  
@@ -22,38 +22,38 @@ services_settings:
   description: Security is the foundation of everything we architect
 
 projects_settings:  
-  title: Hacker Group
-  description: Achivement Journey
+  title: Operational Metrics
+  description: Engineering Impact
   button:
-    name: "get started "
+    name: "View Case Studies"
     link: "#"
   counter:
-    - icon: '<i class="fas fa-rocket"></i>'
-      name: "Bounties Won"
-      count: 12
-    - icon: '<i class="fas fa-life-ring"></i>'
-      name: "Hackathons"
-      count: 5
-    - icon: '<i class="fas fa-universal-access"></i>'
-      name: "Hackers"
-      count: 4
+    - icon: '<i class="fas fa-microchip"></i>'
+      name: "Algorithms Optimized"
+      count: 150
+    - icon: '<i class="fas fa-shield-alt"></i>'
+      name: "Vulnerabilities Patched"
+      count: 500
+    - icon: '<i class="fas fa-network-wired"></i>'
+      name: "Clusters Deployed"
+      count: 35
 
 portfolios_settings:  
-  title: About Us
-  description: Premier Algorithm Development Firm For Your Project
+  title: Selected Works
+  description: Solving "Impossible" Computational Problems
   button:
-    name: "View more"
+    name: "View Architecture"
     link: "#"
   button2:
-    name: "Let’s Talk"
+    name: "Discuss Your Project"
     link: "#"
 
 cta_settings:  
-  title: Have Any Creative Project
-  description: We denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure
+  title: Facing a Computational Bottleneck?
+  description: Whether you need to reduce AI inference latency, secure a blockchain protocol, or optimize a logistics network, our engineers are ready to audit and architect the solution.
   image: /assets/images/cta-text.png
   button:
-    name: "meet with us"
+    name: "Initiate Consultation"
     link: "#"
   
 textimonials_settings:  
@@ -66,70 +66,71 @@ textimonials_settings:
 
 abouts_settings:  
   title: Who we are
-  description: Ethical Hacker Group
+  description: Algorithmic Security & R&D Lab
   image: "/assets/images/about-us/1.png"
   image2: "/assets/images/about-us/2.png"
   text: <h1 style="font-size:18px; ">[as]</h1>
-  text2: Algosize is a security-focused development firm dedicated to building digital infrastructure that is resilient by default. We bridge the gap between elite performance engineering and deep-tier cybersecurity. Our mission is to empower organizations with software and infrastructure that isn't just fast, but inherently private and impenetrable.
+  text2: Algosize is a deep-tech engineering firm. We specialize in the "hard problems" of computer science—cryptography, distributed systems, and machine learning optimization. We bridge the gap between academic research and industrial application, empowering organizations with infrastructure that is inherently private, scalable, and impenetrable.
   list:
-    - item: Secure Software Development (SSDLC)
-      link: "https://algosize.com/services/ssdlc"
-    - item: Infrastructure-as-Code (IaC) Hardening
-      link: "https://algosize.com/services/iac"
-    - item: Privacy-Preserving Computation
+    - item: Machine Learning & AI Algorithm Design
+      link: "https://algosize.com/services/ai-algorithms"
+    - item: Cryptography & Blockchain Auditing
+      link: "https://algosize.com/services/auditing"
+    - item: High-Performance Computing (HPC)
+      link: "https://algosize.com/services/hpc"
+    - item: Embedded Systems & Sensor Fusion
+      link: "https://algosize.com/services/embedded"
+    - item: Privacy-Preserving Computation (ZKPs)
       link: "https://algosize.com/services/privacy"
-    - item: High-Performance Resilience & Auditing
-      link: "https://algosize.com/services/high-performance"
-    - item: AI Clusters & Automation
-      link: "https://algosize.com/services/ai-clusters"
-    - item: Blockchain Development & Infrastructure
-      link: "https://algosize.com/services/blockchain"
-    - item: Render Farms
-      link: "https://algosize.com/services/render"
+    - item: Secure Software Development Life Cycle (SSDLC)
+      link: "https://algosize.com/services/ssdlc"
+    - item: Custom Search & Recommendation Engines
+      link: "https://algosize.com/services/recsys"
   button:
     name: "CONSULT AN ARCHITECT"
     link: "#contact"
 
 pricings_settings:  
-  title: our pricing
-  description: Popular Pricing Plan For Creative Project
+  title: Engagement Models
+  description: Flexible Structures for R&D and Engineering
   button:
-    name: make plan 
+    name: Request Quote
     link: "#"
   list:
-    - name: '01 <span>basic</span>'
+    - name: '01 <span>The Audit</span>'
       image: "/assets/images/price-icon.png"
-      text: '<span>$45.99/month</span>'
+      text: '<span>Fixed Scope</span>'
       listitem:
-        - item: Web Design (UX/UI)
-        - item: Software Development
-        - item: Fashion Design (Arts)
-        - item: Web Development (php)
+        - item: Algorithm Performance Review
+        - item: Security Vulnerability Assessment
+        - item: Codebase Architecture Audit
+        - item: Optimization Roadmap
       lowerlistitem:
-        - item: Game Design & DV
-        - item: Computer Hardware
-    - name: '02 <span>smart</span>'
+        - item: Detailed Technical Report
+        - item: "Duration: 2-4 Weeks"
+    - name: '02 <span>The Build</span>'
       image: "/assets/images/price-icon.png"
-      text: '<span>$65.99/month</span>'
+      text: '<span>Sprint / Milestone</span>'
       listitem:
-        - item: Web Design (UX/UI)
-        - item: Software Development
-        - item: Fashion Design (Arts)
-        - item: Web Development (php)
+        - item: Custom AI Model Development
+        - item: Secure Protocol Implementation
+        - item: Embedded Systems Engineering
+        - item: Full-Stack MVP Development
       lowerlistitem:
-        - item: Game Design & DV
-        - item: Computer Hardware
-    - name: '03 <span>Premium</span>'
+        - item: Production-Ready Code
+        - item: IP Handover
+    - name: '03 <span>The Scale</span>'
       image: "/assets/images/price-icon.png"
-      text: '<span>$103.99/month</span>'
+      text: '<span>Retainer</span>'
       listitem:
-        - item: Web Design (UX/UI)
-        - item: Software Development
-        - item: Fashion Design (Arts)
-        - item: Web Development (php)
+        - item: Dedicated Engineering Team
+        - item: Continuous CI/CD & Security Ops
+        - item: Infrastructure Management
+        - item: 24/7 Incident Response
       lowerlistitem:
-        - item: Game Design & DV
-        - item: Computer Hardware
+        - item: Long-term R&D Partnership
+        - item: Enterprise SLA
+        
 404_settings:  
   title: 404
   description: The page you are lookng for cannot be found
