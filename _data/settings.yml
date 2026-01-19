@@ -3,23 +3,23 @@ teams_settings:
   description: The Minds Behind the Mission
 
 blogs_settings:  
-  title: News & blog
-  description: Latest Articles For New Project
+  title: Threat Intelligence & R&D
+  description: Deep dives into Adversarial Machine Learning, Zero-Day Discovery, and Cryptographic Hardening.
   button:
-    name: "view all news"
+    name: "Access Intelligence"
     link: "/blog/"
 
 videos_settings:  
-  title: Engineering at the Edge
-  description: We operate where standard software fails. From training Large Language Models (LLMs) on custom clusters to auditing smart contracts for nine-figure DeFi protocols, Algosize bridges the gap between theoretical mathematics and production-grade infrastructure. We don't just write code; we architect resilience.
+  title: Offensive Mindset, Defensive Architecture
+  description: We operate where standard security fails. From hardening AI clusters against prompt injection and model extraction to securing multi-million dollar blockchain protocols via formal verification, Algosize architects systems that are resilient by design. We don't just patch vulnerabilities; we eliminate attack vectors through mathematical optimization.
   youtube_link: "#"
   button:
-    name: "View Technical Demos"
+    name: "Watch Technical Briefs"
     link: "#"
 
 services_settings:  
   title: OUR PHILOSOPHY
-  description: Security is the foundation of everything we architect
+  description: If it isn't computationally secure, it isn't production-ready.
 
 projects_settings:  
   title: Operational Metrics
@@ -39,21 +39,21 @@ projects_settings:
       count: 35
 
 portfolios_settings:  
-  title: Selected Works
-  description: Solving "Impossible" Computational Problems
+  title: Mission Critical Systems
+  description: Hardening the Algorithms that Power the Modern Economy
   button:
-    name: "View Architecture"
+    name: "View Security Frameworks"
     link: "#"
   button2:
-    name: "Discuss Your Project"
+    name: "Audit Your Infrastructure"
     link: "#"
 
 cta_settings:  
-  title: Facing a Computational Bottleneck?
-  description: Whether you need to reduce AI inference latency, secure a blockchain protocol, or optimize a logistics network, our engineers are ready to audit and architect the solution.
+  title: Is Your Logic Vulnerable?
+  description: From algorithmic bias to cryptographic weaknesses, we identify the invisible risks in your software. Let our engineers fortify your codebase before the threat actors do.
   image: /assets/images/cta-text.png
   button:
-    name: "Initiate Consultation"
+    name: "Request an Audit"
     link: "#"
   
 textimonials_settings:  
@@ -66,71 +66,71 @@ textimonials_settings:
 
 abouts_settings:  
   title: Who we are
-  description: Algorithmic Security & R&D Lab
+  description: Algorithmic Security & Cyber-Resilience Lab
   image: "/assets/images/about-us/1.png"
   image2: "/assets/images/about-us/2.png"
   text: <h1 style="font-size:18px; ">[as]</h1>
-  text2: Algosize is a deep-tech engineering firm. We specialize in the "hard problems" of computer science—cryptography, distributed systems, and machine learning optimization. We bridge the gap between academic research and industrial application, empowering organizations with infrastructure that is inherently private, scalable, and impenetrable.
+  text2: Algosize is a security-first engineering firm. We specialize in the "hard problems" where cybersecurity meets high-performance computation. We bridge the gap between adversarial research and industrial application, empowering organizations with software that is inherently private, scalable, and cryptographically sound.
   list:
-    - item: Machine Learning & AI Algorithm Design
-      link: "https://algosize.com/services/ai-algorithms"
-    - item: Cryptography & Blockchain Auditing
-      link: "https://algosize.com/services/auditing"
-    - item: High-Performance Computing (HPC)
-      link: "https://algosize.com/services/hpc"
-    - item: Embedded Systems & Sensor Fusion
-      link: "https://algosize.com/services/embedded"
-    - item: Privacy-Preserving Computation (ZKPs)
-      link: "https://algosize.com/services/privacy"
-    - item: Secure Software Development Life Cycle (SSDLC)
-      link: "https://algosize.com/services/ssdlc"
-    - item: Custom Search & Recommendation Engines
-      link: "https://algosize.com/services/recsys"
+    - item: Adversarial ML & AI Model Hardening
+      link: "https://algosize.com/services/ai-security"
+    - item: Post-Quantum Cryptography & Blockchain Audits
+      link: "https://algosize.com/services/crypto-auditing"
+    - item: Privacy-Preserving Computation (ZKPs & FHE)
+      link: "https://algosize.com/services/privacy-computation"
+    - item: High-Performance Infrastructure SecOps
+      link: "https://algosize.com/services/hpc-security"
+    - item: Secure Embedded Systems & IoT Firmware
+      link: "https://algosize.com/services/embedded-security"
+    - item: Formal Verification of Critical Algorithms
+      link: "https://algosize.com/services/formal-verification"
+    - item: Red Teaming for Algorithmic Logic
+      link: "https://algosize.com/services/red-teaming"
   button:
-    name: "CONSULT AN ARCHITECT"
+    name: "CONSULT A SECURITY ARCHITECT"
     link: "#contact"
 
 pricings_settings:  
   title: Engagement Models
-  description: Flexible Structures for R&D and Engineering
+  description: Professional Cybersecurity & Engineering Services
   button:
     name: Request Quote
     link: "#"
   list:
     - name: '01 <span>The Audit</span>'
       image: "/assets/images/price-icon.png"
-      text: '<span>Fixed Scope</span>'
+      text: '<span>Risk Assessment</span>'
       listitem:
-        - item: Algorithm Performance Review
-        - item: Security Vulnerability Assessment
-        - item: Codebase Architecture Audit
-        - item: Optimization Roadmap
+        - item: Vulnerability & Logic Discovery
+        - item: Cryptographic Protocol Review
+        - item: Algorithmic Bias/Risk Report
+        - item: Remediation Strategy
       lowerlistitem:
-        - item: Detailed Technical Report
-        - item: "Duration: 2-4 Weeks"
-    - name: '02 <span>The Build</span>'
+        - item: Attestation of Security
+        - item: "Focus: Intelligence"
+    - name: '02 <span>The Fortify</span>'
       image: "/assets/images/price-icon.png"
-      text: '<span>Sprint / Milestone</span>'
+      text: '<span>Implementation</span>'
       listitem:
-        - item: Custom AI Model Development
-        - item: Secure Protocol Implementation
-        - item: Embedded Systems Engineering
-        - item: Full-Stack MVP Development
+        - item: Secure Model Development
+        - item: Hardened Infrastructure Setup
+        - item: Custom Cryptography Integration
+        - item: Production-Ready Security Code
       lowerlistitem:
-        - item: Production-Ready Code
-        - item: IP Handover
-    - name: '03 <span>The Scale</span>'
+        - item: Fully Hardened Assets
+        - item: "Focus: Resilience"
+    - name: '03 <span>The Guardian</span>'
       image: "/assets/images/price-icon.png"
-      text: '<span>Retainer</span>'
+      text: '<span>Continuous Ops</span>'
       listitem:
-        - item: Dedicated Engineering Team
-        - item: Continuous CI/CD & Security Ops
-        - item: Infrastructure Management
-        - item: 24/7 Incident Response
+        - item: 24/7 Managed Security Monitoring
+        - item: Real-time Threat Mitigation
+        - item: Continuous Algorithm Optimization
+        - item: Priority R&D Support
       lowerlistitem:
-        - item: Long-term R&D Partnership
-        - item: Enterprise SLA
-        
+        - item: Enterprise SLA Partnership
+        - item: "Focus: Longevity"
+
 404_settings:  
   title: 404
   description: The page you are lookng for cannot be found
